@@ -1,2 +1,4 @@
 # comp3810sef_group44
-project idea to be designated
+project: tbd
+group: 44
+members: Liew Kin Shing Nicholas, insert name here
